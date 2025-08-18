@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-mohammed--aichour.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mohammed-aichour.dev)](https://mohammed-aichour.dev)
 [![Twitter Badge](https://img.shields.io/badge/-@mohammed__aichour-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mohammed_aichour)](https://twitter.com/mohammed_aichour)
 [![Instagram Badge](https://img.shields.io/badge/-@mohammed__aichour-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mohammed_aichour/)](https://instagram.com/mohammed_aichour)
-[![Gmail Badge](https://img.shields.io/badge/-mohammed.aichour@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammed.aichour@gmail.com)](mailto:mohammed.aichour@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mohammedaichour48@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mohammed.aichour@gmail.com)](mailto:mohammed.aichour@gmail.com)
 
 Welcome to my profile! I'm a passionate **Web Developer** specializing in **Linux systems** and currently studying **C++ programming**. I love building robust web applications, exploring the depths of Linux, and mastering system-level programming. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohammed-aichour/)!
 
