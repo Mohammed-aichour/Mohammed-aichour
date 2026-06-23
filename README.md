@@ -94,9 +94,6 @@ I'm a passionate **Web Developer** specializing in **Linux systems** and current
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=F80000">
-</a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
