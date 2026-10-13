@@ -230,16 +230,23 @@ I'm a passionate **Web Developer** specializing in **Linux systems** and current
 
 
 
+## 🚀 Featured Engineering Projects
+
+| Projet | Domaine | Stack Technique | Dépôt / Démo |
+| :--- | :--- | :--- | :--- |
+| **FAB-LAB GMAO & AI Agent** | Full-Stack & Industrial AI | React 19, Express, Prisma, SQLite, OpenAI Tool Calling | [Code](https://github.com/Mohammed-aichour/FAB-LAB) · [Live Demo](https://mohammed-aichour.github.io/FAB-LAB/) |
+| **Vision Parking Universiapolis** | Computer Vision & Edge AI | Python 3.10+, OpenCV, NumPy, Flask | [Code](https://github.com/Mohammed-aichour/vision-parking-universiapolis) |
+| **CAN 2025 Maroc Platform** | Web App & Event Platform | HTML5, CSS3, Modern JS, LocalStorage | [Code](https://github.com/Mohammed-aichour/Can_2025) · [Live Demo](https://mohammed-aichour.github.io/Can_2025/) |
+| **Catalogue Voitures d'Exception** | Luxury Showcase & Booking | Responsive CSS Grid, LocalStorage | [Code](https://github.com/Mohammed-aichour/Catalogue-Premium-Voitures-d-Exception) · [Live Demo](https://mohammed-aichour.github.io/Catalogue-Premium-Voitures-d-Exception/) |
+| **Weather & Cultural Gallery** | React API Integration | React 19, OpenWeather API, Pixabay REST | [Code](https://github.com/Mohammed-aichour/react-weather-gallery) · [Live Demo](https://mohammed-aichour.github.io/react-weather-gallery/) |
+| **Mini Social Network** | Full-Stack MVC Architecture | React 18, PHP 8 REST API, MySQL 8.0 | [Code](https://github.com/Mohammed-aichour/mini-social-network) |
+
 ## 🌍 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mohammed-aichour)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-aichour/)
-
-[![Website](https://img.shields.io/badge/Website-mohammed--aichour.dev-47CCCC?style=for-the-badge&logo=google-chrome)](https://mohammed-aichour.dev)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mohammed_AICHOUR-47CCCC?style=for-the-badge&logo=google-chrome)](https://mohammed-aichour.github.io/PORTFOLIO-Officiel/)
 [![Twitter](https://img.shields.io/badge/Twitter-@mohammed__aichour-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mohammed_aichour)
-
 [![Instagram](https://img.shields.io/badge/Instagram-@mohammed__aichour-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mohammed_aichour/)
 
 
