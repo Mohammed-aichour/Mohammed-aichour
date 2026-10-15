@@ -1,121 +1,108 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohammed+Aichour....;Web+Developer+%7C+Linux+Specialist;Currently+Learning+C%2B%2B;&center=true&size=23&color=47CCCC">
-  </a>
-</h1>
+<div align="center">
+
+# 👨‍💻 Mohammed AICHOUR
+### Élève Ingénieur en Génie Informatique — Universiapolis (UIA)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Mohammed+AICHOUR;Cycle+d'Ingénieur+en+Génie+Informatique;Architecte+Full-Stack+%7C+React+19+%7C+TypeScript+%7C+Node.js;Computer+Vision+%26+Edge+AI+%7C+OpenCV+%7C+YOLO;Concepteur+GMA+LAB+au+Fab+Lab+Universiapolis;&center=true&size=22&color=38BDF8&vCenter=true&width=750&height=50)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
- 
+  <a href="https://mohammed-aichour.github.io/"><img src="https://img.shields.io/badge/Portfolio%20Officiel-En%20Ligne-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-aichour-3a47153b8/"><img src="https://img.shields.io/badge/LinkedIn-Mohammed_AICHOUR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammed.aichour@e-polytechnique.ma"><img src="https://img.shields.io/badge/Email-Contact_Académique-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🌟 About Me
-
-I am a **Computer Science Engineering Student** at **École Polytechnique d'Agadir – Universiapolis (UIA)**, focused on **Software Engineering, Full-Stack Architectures, Distributed Systems, Computer Vision, and Applied AI**.
-
-- 💻 Full-Stack Software Developer (React 19, TypeScript, Node.js, Express, PHP, Python)
-- 🧠 Computer Vision & AI Engineering (OpenCV, YOLO, NumPy, OpenAI API Function Calling)
-- 🗄️ Relational Database & System Architecture (MySQL, SQLite, Prisma ORM, PowerAMC)
-- 🐧 Linux Systems Specialist with strong operating system & network fundamentals (Cisco, TCP/IP)
-- 🚀 Passionate about modular code quality, clean architecture, and building production-ready solutions
+</div>
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🏛️ Profil & Ambition d'Ingénierie
 
-| Projet | Domaine | Stack Technique | Dépôt / Démo |
-| :--- | :--- | :--- | :--- |
-| **GMA LAB — GMAO Fab Lab** | Industrial Full-Stack & AI Agent | React 19, Node.js, Prisma, SQLite, OpenAI Tool Calling | [Code](https://github.com/Mohammed-aichour/FAB-LAB) · [Live Demo](https://mohammed-aichour.github.io/FAB-LAB/) |
-| **Vision Parking Universiapolis** | Computer Vision & Edge AI | Python 3.10+, OpenCV, NumPy, Flask | [Code](https://github.com/Mohammed-aichour/vision-parking-universiapolis) |
-| **StudentHub Academic Portal** | Academic Management & REST API | Node.js (ESM), SQL Schema, GPA Calculator | [Code](https://github.com/Mohammed-aichour/studentHub) |
-| **CAN 2025 Maroc Platform** | Web App & Event Services | HTML5, CSS3, Modern JS, LocalStorage | [Code](https://github.com/Mohammed-aichour/Can_2025) · [Live Demo](https://mohammed-aichour.github.io/Can_2025/) |
-| **Catalogue Voitures d'Exception** | Luxury Showcase & VIP Booking | HTML5, CSS Grid, Bootstrap 5, LocalStorage | [Code](https://github.com/Mohammed-aichour/Catalogue-Premium-Voitures-d-Exception) · [Live Demo](https://mohammed-aichour.github.io/Catalogue-Premium-Voitures-d-Exception/) |
-| **MarocCulture Hub** | Cultural Heritage SPA | React 19, Bootstrap 5, Axios, Web Vitals | [Code](https://github.com/Mohammed-aichour/MarocCulture) · [Live Demo](https://mohammed-aichour.github.io/MarocCulture/) |
-| **Weather & Cultural Gallery** | Interactive API Integration | React 19, OpenWeather API, Pixabay REST | [Code](https://github.com/Mohammed-aichour/react-weather-gallery) · [Live Demo](https://mohammed-aichour.github.io/react-weather-gallery/) |
-| **Mini Social Network** | Full-Stack MVC Architecture | React 18, PHP 8 REST API, MySQL 8.0 | [Code](https://github.com/Mohammed-aichour/mini-social-network) |
-| **Official Portfolio** | Interactive Engineering Showcase | Next.js, React 19, TypeScript, Tailwind CSS, Oxlint | [Code](https://github.com/Mohammed-aichour/Mohammed-aichour.github.io) · [Live Demo](https://mohammed-aichour.github.io/) |
+Étudiant en **2ᵉ année du Cycle d'Ingénieur en Génie Informatique** à l'**École Polytechnique d'Agadir – Universiapolis (UIA)**, je me spécialise dans la conception d'architectures logicielles modernes, le développement full-stack modulaire, les systèmes distribués, ainsi que la vision par ordinateur et l'intelligence artificielle appliquée.
 
-## 🌍 Connect With Me
+- 🎓 **Formation :** Cycle Préparatoire & Cycle d'Ingénieur en Génie Informatique (Universiapolis).
+- 💼 **Expérience de Stage :** Développeur Full-Stack & Concepteur au **Fab Lab Universiapolis** (conception et déploiement de **GMA LAB** avec modélisation relationnelle PowerAMC 11 tables, React 19, Prisma, Node.js et agent IA OpenAI).
+- 📍 **Localisation :** Agadir / Inezgane, Maroc.
+- 🎯 **Objectif :** Résoudre des problématiques techniques complexes avec un code robuste, typé, maintenable et sécurisé.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Mohammed-aichour)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-aichour/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Mohammed_AICHOUR-47CCCC?style=for-the-badge&logo=google-chrome)](https://mohammed-aichour.github.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-@mohammed__aichour-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mohammed_aichour)
-[![Instagram](https://img.shields.io/badge/Instagram-@mohammed__aichour-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mohammed_aichour/)
+---
 
-
-
-
-
-
-
-
-<hr>
-
-<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h4 align="left">
-</h4>
- 
-╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
-<h4>
-<h4 align="left">  
- 
-╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
-<h4>
-
-<!--🪳ROACH&🕷️SPIDER--> 
-<p align="left">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
- 
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<p align="right">
-<!--RECENT_ACTIVITY:last_update-->
-<!-- <i>Last refresh</i> : <b>Friday, April 24th, 2026, 3:12:54 AM</b> -->
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--🤝CONTRIBUTOR IMAGE / 🌐WEBSITE: https://github.com/lacolaco/contributors-img --> 
-<div align="center">
-### ✨ "Code. Learn. Build. Improve. Repeat."
-
-
-</div>
+## 🛠️ Stack Technique & Compétences
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+### 💻 Langages & Typage
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=flat-square&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-STL-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Relational-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### ⚛️ Frameworks & Écosystèmes
+![React 19](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-API_REST-black?style=flat-square&logo=express&logoColor=white)
 
+### 🧠 Vision par Ordinateur & Intelligence Artificielle
+![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00ffff?style=flat-square&logo=yolo&logoColor=black)
+![OpenAI API](https://img.shields.io/badge/OpenAI-Function_Calling-412991?style=flat-square&logo=openai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<br><p align="center">
-<a href="https://github.com/Mohammed-aichour/Mohammed-aichour/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Mohammed-aichour/Mohammed-aichour&anon=true" />
-</a>
+### 🗄️ Bases de Données, ORM & Modélisation
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Relationnel-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PowerAMC](https://img.shields.io/badge/PowerAMC-MCD_/_MLD-red?style=flat-square)
+![UML](https://img.shields.io/badge/UML-Diagrammes_de_Classes_%26_Séquence-blue?style=flat-square)
+
+### 🐧 Systèmes, Réseaux & Outils
+![Linux](https://img.shields.io/badge/Linux-Ubuntu_%26_Debian-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-VCS-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Actions_%26_Pages-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projets d'Ingénierie Clés & Démonstrations en Ligne
+
+| Projet | Domaine | Stack Clé | Code Source | Démo en Ligne |
+|---|---|---|---|---|
+| **Portfolio Officiel** | Showcase Interactif | Next.js, React 19, TypeScript, Tailwind CSS | [Code](https://github.com/Mohammed-aichour/Mohammed-aichour.github.io) | [🌐 Voir le Site](https://mohammed-aichour.github.io/) |
+| **GMA LAB — GMAO Fab Lab** | Système Industriel & Agent IA | React 19, Node.js, Prisma, SQLite, OpenAI API | [Code](https://github.com/Mohammed-aichour/FAB-LAB) | [🌐 Démo en Ligne](https://mohammed-aichour.github.io/FAB-LAB/) |
+| **Vision Parking Universiapolis** | Vision par Ordinateur & Edge AI | Python 3.13, OpenCV, YOLO, NumPy, Flask | [Code](https://github.com/Mohammed-aichour/vision-parking-universiapolis) | [🌐 Dashboard Live](https://mohammed-aichour.github.io/vision-parking-universiapolis/) |
+| **CAN 2025 Morocco** | Portail Supporters & Billetterie | HTML5, CSS3, Modern JS, LocalStorage | [Code](https://github.com/Mohammed-aichour/Can_2025) | [🌐 Démo en Ligne](https://mohammed-aichour.github.io/Can_2025/) |
+| **Catalogue Voitures d'Exception** | Showroom Luxe & Réservation VIP | HTML5, CSS Grid, Bootstrap 5, LocalStorage | [Code](https://github.com/Mohammed-aichour/Catalogue-Premium-Voitures-d-Exception) | [🌐 Démo en Ligne](https://mohammed-aichour.github.io/Catalogue-Premium-Voitures-d-Exception/) |
+| **MarocCulture Hub** | Portail Culturel & SPA Météo | React 19, Bootstrap 5, Axios, Open-Meteo, Pixabay | [Code](https://github.com/Mohammed-aichour/MarocCulture) | [🌐 Démo en Ligne](https://mohammed-aichour.github.io/MarocCulture/) |
+| **Weather & City Gallery** | Prévisions Météo & Galerie Photo | React 19, Open-Meteo API, Pixabay REST API | [Code](https://github.com/Mohammed-aichour/react-weather-gallery) | [🌐 Démo en Ligne](https://mohammed-aichour.github.io/react-weather-gallery/) |
+| **StudentHub Portal** | Gestion Académique & API REST | Node.js (ESM), Schéma SQL Relationnel, DDL | [Code](https://github.com/Mohammed-aichour/studentHub) | [Code & Architecture](https://github.com/Mohammed-aichour/studentHub) |
+| **Mini Social Network** | Architecture MVC Full-Stack | React 18 (Vite), PHP 8 REST API, MySQL 8.0 | [Code](https://github.com/Mohammed-aichour/mini-social-network) | [Code & Architecture](https://github.com/Mohammed-aichour/mini-social-network) |
+
+---
+
+## 📊 Statistiques & Activité GitHub
+
 <div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-aichour&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-aichour&layout=compact&theme=tokyonight&border_radius=10&langs_count=6" alt="Top Languages" width="48%" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Mohammed-aichour&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
+</p>
 
+---
 
+## 🤝 Contact & Réseaux Professionnels
 
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
+- **Portfolio en Ligne :** [https://mohammed-aichour.github.io/](https://mohammed-aichour.github.io/)
+- **LinkedIn :** [linkedin.com/in/mohammed-aichour-3a47153b8](https://linkedin.com/in/mohammed-aichour-3a47153b8)
+- **GitHub :** [github.com/Mohammed-aichour](https://github.com/Mohammed-aichour)
+- **Email Académique :** [mohammed.aichour@e-polytechnique.ma](mailto:mohammed.aichour@e-polytechnique.ma)
+- **Institution :** École Polytechnique d'Agadir – Universiapolis (UIA), Maroc
