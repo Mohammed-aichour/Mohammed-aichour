@@ -10,242 +10,35 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Web Developer** specializing in **Linux systems** and currently studying **C++ programming**.
-
-- 💻 Web Developer with expertise in modern web technologies
-- 🐧 Linux Specialist with strong system administration skills
-- 📚 Currently mastering C++ Programming
-- 🌟 Passionate about open-source technologies
-- 🔧 Love optimizing systems and building efficient solutions
-- 🚀 Always exploring new technologies and frameworks
-
-
-## Things I use on a daily basis
-
-<p align="left">  
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=555555">
-</a>
-
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=00599C">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=visualstudiocode&svgfill=007ACC">
-</a>
-
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=F80000">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=68217A">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=ED8B00">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=0175C2">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=61DAFB">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&svgfill=02569B">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=FF2D20">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=spring&svgfill=6DB33F">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flask&svgfill=FFFFFF">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1">
-</a>
-
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=FFFFFF">
-</a>
-
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=angular&svgfill=DD0031">
-</a>
-
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624">
-</a>
-
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ubuntu&svgfill=E95420">
-</a>
-
-</p>
-
-
-<hr>
-
-
-
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/Mohammed-aichour/Mohammed-aichour/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
-
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
-
-
-
-
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-
-<!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
-
-
-
-
-
-
-
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-aichour&show_icons=true&theme=tokyonight">
-
-
-  
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=Mohammed-aichour&theme=tokyonight&border=599200">
-
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Mohammed-aichour&theme=tokyonight&layout=compact&border_color=599200&langs_count=6">
-
-
-
-
-
-
-
-
-
-
-<h2 align="center">
-  
-  
-  📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-aichour&theme=tokyo-night&hide_border=true" />
-</p>
-
-
-
-
-<p align="center">
-  <a href="https://github.com/Mohammed-aichour?tab=stars&sort=stargazers">
-    <img 
-      alt="total stars" 
-      title="Total stars on GitHub" 
-      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=58A6FF&labelColor=1F2937&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Mohammed-aichour"
-    />
-  </a>
-
-  <a href="https://github.com/Mohammed-aichour?tab=followers">
-    <img 
-      alt="followers" 
-      title="Follow me on Github" 
-      src="https://custom-icon-badges.herokuapp.com/github/followers/Mohammed-aichour?color=58A6FF&labelColor=1F2937&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"
-    />
-  </a>
-</p>
-
-
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-aichour&color=7AA2F7&style=for-the-badge">
-</p>
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-
-
-
-
-
-
-
-
-## 🎯 Current Focus
-
-- 🌱 Deepening my knowledge in C++ Programming
-- 🚀 Building advanced Web Applications
-- ⚡ Exploring Linux System Administration
-- 🔍 Contributing to Open Source Projects
-
-
+I am a **Computer Science Engineering Student** at **École Polytechnique d'Agadir – Universiapolis (UIA)**, focused on **Software Engineering, Full-Stack Architectures, Distributed Systems, Computer Vision, and Applied AI**.
+
+- 💻 Full-Stack Software Developer (React 19, TypeScript, Node.js, Express, PHP, Python)
+- 🧠 Computer Vision & AI Engineering (OpenCV, YOLO, NumPy, OpenAI API Function Calling)
+- 🗄️ Relational Database & System Architecture (MySQL, SQLite, Prisma ORM, PowerAMC)
+- 🐧 Linux Systems Specialist with strong operating system & network fundamentals (Cisco, TCP/IP)
+- 🚀 Passionate about modular code quality, clean architecture, and building production-ready solutions
+
+---
 
 ## 🚀 Featured Engineering Projects
 
 | Projet | Domaine | Stack Technique | Dépôt / Démo |
 | :--- | :--- | :--- | :--- |
-| **FAB-LAB GMAO & AI Agent** | Full-Stack & Industrial AI | React 19, Express, Prisma, SQLite, OpenAI Tool Calling | [Code](https://github.com/Mohammed-aichour/FAB-LAB) · [Live Demo](https://mohammed-aichour.github.io/FAB-LAB/) |
+| **GMA LAB — GMAO Fab Lab** | Industrial Full-Stack & AI Agent | React 19, Node.js, Prisma, SQLite, OpenAI Tool Calling | [Code](https://github.com/Mohammed-aichour/FAB-LAB) · [Live Demo](https://mohammed-aichour.github.io/FAB-LAB/) |
 | **Vision Parking Universiapolis** | Computer Vision & Edge AI | Python 3.10+, OpenCV, NumPy, Flask | [Code](https://github.com/Mohammed-aichour/vision-parking-universiapolis) |
-| **CAN 2025 Maroc Platform** | Web App & Event Platform | HTML5, CSS3, Modern JS, LocalStorage | [Code](https://github.com/Mohammed-aichour/Can_2025) · [Live Demo](https://mohammed-aichour.github.io/Can_2025/) |
-| **Catalogue Voitures d'Exception** | Luxury Showcase & Booking | Responsive CSS Grid, LocalStorage | [Code](https://github.com/Mohammed-aichour/Catalogue-Premium-Voitures-d-Exception) · [Live Demo](https://mohammed-aichour.github.io/Catalogue-Premium-Voitures-d-Exception/) |
-| **Weather & Cultural Gallery** | React API Integration | React 19, OpenWeather API, Pixabay REST | [Code](https://github.com/Mohammed-aichour/react-weather-gallery) · [Live Demo](https://mohammed-aichour.github.io/react-weather-gallery/) |
+| **StudentHub Academic Portal** | Academic Management & REST API | Node.js (ESM), SQL Schema, GPA Calculator | [Code](https://github.com/Mohammed-aichour/studentHub) |
+| **CAN 2025 Maroc Platform** | Web App & Event Services | HTML5, CSS3, Modern JS, LocalStorage | [Code](https://github.com/Mohammed-aichour/Can_2025) · [Live Demo](https://mohammed-aichour.github.io/Can_2025/) |
+| **Catalogue Voitures d'Exception** | Luxury Showcase & VIP Booking | HTML5, CSS Grid, Bootstrap 5, LocalStorage | [Code](https://github.com/Mohammed-aichour/Catalogue-Premium-Voitures-d-Exception) · [Live Demo](https://mohammed-aichour.github.io/Catalogue-Premium-Voitures-d-Exception/) |
+| **MarocCulture Hub** | Cultural Heritage SPA | React 19, Bootstrap 5, Axios, Web Vitals | [Code](https://github.com/Mohammed-aichour/MarocCulture) · [Live Demo](https://mohammed-aichour.github.io/MarocCulture/) |
+| **Weather & Cultural Gallery** | Interactive API Integration | React 19, OpenWeather API, Pixabay REST | [Code](https://github.com/Mohammed-aichour/react-weather-gallery) · [Live Demo](https://mohammed-aichour.github.io/react-weather-gallery/) |
 | **Mini Social Network** | Full-Stack MVC Architecture | React 18, PHP 8 REST API, MySQL 8.0 | [Code](https://github.com/Mohammed-aichour/mini-social-network) |
+| **Official Portfolio** | Interactive Engineering Showcase | Next.js, React 19, TypeScript, Tailwind CSS, Oxlint | [Code](https://github.com/Mohammed-aichour/Mohammed-aichour.github.io) · [Live Demo](https://mohammed-aichour.github.io/) |
 
 ## 🌍 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/mohammed-aichour)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Mohammed-aichour)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-aichour/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Mohammed_AICHOUR-47CCCC?style=for-the-badge&logo=google-chrome)](https://mohammed-aichour.github.io/PORTFOLIO-Officiel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mohammed_AICHOUR-47CCCC?style=for-the-badge&logo=google-chrome)](https://mohammed-aichour.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-@mohammed__aichour-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mohammed_aichour)
 [![Instagram](https://img.shields.io/badge/Instagram-@mohammed__aichour-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mohammed_aichour/)
 
