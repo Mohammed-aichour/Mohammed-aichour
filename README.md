@@ -67,20 +67,20 @@
 
 ### 🌟 Dépôts Clés en Vedette
 
+<a href="https://github.com/Mohammed-aichour/NetSentinel-Enterprise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-aichour&repo=NetSentinel-Enterprise&theme=tokyonight&border_color=38bdf8" width="48%" alt="NetSentinel Enterprise Card" />
+</a>
 <a href="https://github.com/Mohammed-aichour/FAB-LAB">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-aichour&repo=FAB-LAB&theme=tokyonight&border_color=38bdf8" width="48%" alt="FAB-LAB Card" />
-</a>
-<a href="https://github.com/Mohammed-aichour/vision-parking-universiapolis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-aichour&repo=vision-parking-universiapolis&theme=tokyonight&border_color=38bdf8" width="48%" alt="Vision Parking Card" />
 </a>
 
 <br>
 
+<a href="https://github.com/Mohammed-aichour/vision-parking-universiapolis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-aichour&repo=vision-parking-universiapolis&theme=tokyonight&border_color=38bdf8" width="48%" alt="Vision Parking Card" />
+</a>
 <a href="https://github.com/Mohammed-aichour/Mohammed-aichour.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-aichour&repo=Mohammed-aichour.github.io&theme=tokyonight&border_color=38bdf8" width="48%" alt="Portfolio Card" />
-</a>
-<a href="https://github.com/Mohammed-aichour/Can_2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammed-aichour&repo=Can_2025&theme=tokyonight&border_color=38bdf8" width="48%" alt="CAN 2025 Card" />
 </a>
 
 </div>
@@ -91,6 +91,7 @@
 
 | Projet | Spécialité | Technologies Clés | Code Source | Démonstration Live |
 |---|---|---|---|---|
+| **NetSentinel Enterprise** | Sécurité Réseau & SIEM d'Entreprise | Python 3.13, Flask, SQLite WAL, MITRE ATT&CK, Canvas SOC, Docker | [Dépôt Git](https://github.com/Mohammed-aichour/NetSentinel-Enterprise) | [🌐 Tester la Console SOC](https://mohammed-aichour.github.io/NetSentinel-Enterprise/) |
 | **Portfolio Officiel** | Showcase Ingénieur & Expérience Fab Lab | Next.js, React 19, TypeScript, Tailwind CSS, Oxlint | [Dépôt Git](https://github.com/Mohammed-aichour/Mohammed-aichour.github.io) | [🌐 Accéder au Site](https://mohammed-aichour.github.io/) |
 | **GMA LAB — Solution GMAO** | Gestion de Maintenance & Agent IA | React 19, Node.js, Express, Prisma, SQLite, OpenAI API | [Dépôt Git](https://github.com/Mohammed-aichour/FAB-LAB) | [🌐 Tester la Démo](https://mohammed-aichour.github.io/FAB-LAB/) |
 | **Vision Parking Universiapolis** | Vision par Ordinateur & Surveillance CCTV | Python 3.13, OpenCV 4.8+, YOLO, NumPy, Flask | [Dépôt Git](https://github.com/Mohammed-aichour/vision-parking-universiapolis) | [🌐 Voir le Dashboard](https://mohammed-aichour.github.io/vision-parking-universiapolis/) |
